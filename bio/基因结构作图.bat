@@ -1,0 +1,1 @@
+D:/soft/python35/python.exe C:\bat\bio\exon_plot.py
